@@ -93,7 +93,7 @@ h2 {
 .parent-card {
   display: grid;
   gap: 20px;
-  margin: 0 60px;
+  margin: 0 40px;
   grid-row: 2;
 }
 .card {
